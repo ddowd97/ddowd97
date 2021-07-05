@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello. 👋 I am currently working on my project <a href="https://github.com/ddowd97/Python-Image-Morpher">Python Image Morpher</a> in my spare time.
+### For more information regarding that or yours truly, please visit my website https://ddowd97.github.io/.
 
 <!--
 **ddowd97/ddowd97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
